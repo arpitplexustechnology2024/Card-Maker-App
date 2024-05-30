@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; configuration.title = "Let's go"; ObjectID = "5Ce-3Z-tS3"; */
+"5Ce-3Z-tS3.configuration.title" = "Let's go";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Ce-3Z-tS3"; */
+"5Ce-3Z-tS3.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Language Change"; ObjectID = "5lB-aQ-dj2"; */
+"5lB-aQ-dj2.title" = "Language Change";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "F9C-rC-5JF"; */
+"F9C-rC-5JF.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F9C-rC-5JF"; */
+"F9C-rC-5JF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Choose your perfect\nlanguage"; ObjectID = "Fav-KW-0SR"; */
+"Fav-KW-0SR.text" = "Choose your perfect\nlanguage";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "IUv-42-Y09"; */
+"IUv-42-Y09.text" = "Spanish";
+
+/* Class = "UILabel"; text = "You can change language anytime in the menu bar."; ObjectID = "R1F-vr-AmV"; */
+"R1F-vr-AmV.text" = "You can change language anytime in the menu bar.";
+
+/* Class = "UILabel"; text = "French"; ObjectID = "UWV-DV-xJE"; */
+"UWV-DV-xJE.text" = "French";
+
+/* Class = "UILabel"; text = "You will be card based on your language"; ObjectID = "d40-Sy-Cdh"; */
+"d40-Sy-Cdh.text" = "You will be card based on your language";
+
+/* Class = "UILabel"; text = "Choose any one \nFunny card"; ObjectID = "fFD-Dg-byr"; */
+"fFD-Dg-byr.text" = "Choose any one \nFunny card";
+
+/* Class = "UILabel"; text = "Hindi"; ObjectID = "hu7-XA-ht0"; */
+"hu7-XA-ht0.text" = "Hindi";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "o87-14-jCQ"; */
+"o87-14-jCQ.text" = "English";
+
+/* Class = "UILabel"; text = "Thousands of cards to teasing your friends, \ngroups, families, lovers."; ObjectID = "s7h-NX-Kgk"; */
+"s7h-NX-Kgk.text" = "Thousands of cards to teasing your friends, \ngroups, families, lovers.";
+
+/* Class = "UILabel"; text = "Yesterday is history, tomorrow is a mystery, \nand today is the present you're not getting. \nHere's a lovely card though with words and\neverything."; ObjectID = "vPQ-JV-Fv9"; */
+"vPQ-JV-Fv9.text" = "Yesterday is history, tomorrow is a mystery, \nand today is the present you're not getting. \nHere's a lovely card though with words and\neverything.";
+
+/* Class = "UILabel"; text = "Urdu"; ObjectID = "zaF-x2-zmj"; */
+"zaF-x2-zmj.text" = "Urdu";
